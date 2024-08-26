@@ -1,0 +1,1 @@
+python inference.py --model ast --n_cls 2 --checkpoint_path "../backup_icbhi/save/icbhi_ast_ce_jmir_ast_iphone_fold0/best.pth" --data_folder "./data2"
